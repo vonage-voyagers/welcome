@@ -6,14 +6,6 @@
 
 Vonage Voyagers is a program to honor our most engaged community members and we are thrilled to welcome you to a unique developer community, where you can discover new technologies, build relationships and become an inspiration to your peers.
 
-## How do I become a Voyager?
-
-You can find a link to apply [here](https://nexmo.dev/3gCEFbN). If we think you’d be a good fit we’ll ask you to complete an exercise and then have a short video call with a member of the Vonage Voyagers team. We’ll respond to everyone who applies.
-
-## I think I know someone who would be great as a Voyager!
-
-Wonderful! You can also find a link to nominate an individual [here](https://nexmo.dev/3gCEFbN). If accepted, we’ll ask you to send them a one-use link to accept their invite and move straight on to the short video call with a member of our team.
-
 ## What benefits do Voyagers get?
 
 * Access to key Vonage employees for mentorship and learning opportunities such as developer advocates, product managers and senior executives.
